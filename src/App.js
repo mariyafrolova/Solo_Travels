@@ -12,7 +12,7 @@ import Itinerary4 from './pages/Itinerary4';
 export default function App() {
   return (
     <div>
-      <BrowserRouter basename="/64bdac695797ba693a76bfa1">
+      <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/home" element={<Home />} />

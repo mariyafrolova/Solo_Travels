@@ -19,11 +19,15 @@
     "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
+
+  "homepage": "https://mariyafrolova.github.io/Solo_Travels",
   "scripts": {
     "start": "react-scripts start",
     "build": "CI=false react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -45,6 +49,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.22.9",
-    "@babel/preset-env": "^7.22.9"
+    "@babel/preset-env": "^7.22.9",
+    "gh-pages": "^5.0.0"
   }
 }
