@@ -12,7 +12,7 @@ import Itinerary4 from './pages/Itinerary4';
 export default function App() {
   return (
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename="/64bda937ee38686cf226c923--dynamic-salamander-e49310">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/home" element={<Home />} />
