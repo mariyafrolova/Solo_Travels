@@ -1,0 +1,70 @@
+body {
+  font-family: 'Mulish', sans-serif;
+  text-align: center;
+}
+
+.header {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+.h2 {
+  font-family: "Mulish", sans-serif;
+  font-weight:lighter;
+}
+.p {
+  font-family: "Mulish", sans-serif;
+  margin-top: 10px;
+  font-weight: lighter;
+}
+
+
+.picture-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.picture-row a {
+  text-decoration: none;
+  color: #000000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.picture-row a img {
+  max-width: 30px;
+  max-height: 30px;
+}
+
+
+.picture-row a p {
+  margin-top: 5px;
+  font-size: 14px;
+  font-family: 'Mulish', sans-serif;
+}
+.back-button {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+a {
+  color: black;
+}
+
+a:hover {
+  color: #215F88;
+}
+
+.activity-image {
+  width: 420px;
+  height: 220px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 2.5);
+}
+
+.image {
+  margin-top: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 2.5);
+}
+

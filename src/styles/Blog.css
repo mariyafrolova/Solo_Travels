@@ -1,0 +1,127 @@
+.title {
+    font-family: 'Playfair Display', serif;
+    margin-left: 20px;
+  }
+  .blue {
+    color: #215F88;
+  }
+
+  .green {
+    color: green;
+  }
+  .cta-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+  padding: 20px 20px 0 0;
+
+}
+
+.cta-button {
+  background-color: #215F88;
+  color: #FFFFFF; 
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  position: absolute;
+  top: 20px; 
+  right: 20px;
+  font-family: 'Mulish', sans-serif;
+}
+
+.cta-button:hover {
+  background-color: #7baccb;
+}
+  
+      nav{
+          background-color: white;
+      }
+      .navbar-nav {
+       display: flex;
+       justify-content: center;
+       margin-left: -40px; 
+      }
+      .navbar-nav .nav-link {
+      color: rgba(136, 132, 132, 0.966);
+      }
+      .navbar-nav .nav-link {
+      font-family: 'Mulish', sans-serif;
+      }
+      .custom-navbar {
+      padding-top: 1px; 
+      padding-bottom: 0px; 
+      }
+      .custom-text {
+      font-size: 50px; 
+      }
+      .navbar-text {
+      font-size: 15px; 
+      }
+  .header {
+  margin: 0px;
+  font-size: 25px;
+  color: #000000;
+  font-family: "Mulish", sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+
+
+
+
+.blog-post {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-left: 60px;
+  }
+
+  .blog-post img {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .blog-post:hover {
+    transform: scale(1.1); 
+  }
+
+  .blog-post .post-details {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .blog-post .post-details h2 {
+    margin: 0;
+    font-size: 20px;
+    font-family: 'Mulish',sans-serif;
+  }
+
+  .blog-post .post-details p {
+    margin: 0;
+    font-family: 'Mulish',sans-serif;
+  }
+
+  .blog-post .post-details .author {
+    font-style: italic;
+    font-family: 'Mulish',sans-serif;
+    font-size: 13px;
+  }
+  .search-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+  }
+
+  .search-container input[type="text"] {
+    width: 200px;
+  }
+  .search-button {
+    background-color: #215F88;;
+    color: white;
+   
+  }
+  

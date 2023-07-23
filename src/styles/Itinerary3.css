@@ -1,0 +1,135 @@
+
+
+
+.title {
+    font-family: 'Playfair Display', serif;
+    margin-left: 20px;
+  }
+  
+  .blue {
+    color: #215F88;
+  }
+  
+  .green {
+    color: green;
+  }
+  .header {
+    margin: 0px;
+    font-size: 25px;
+    color: #000000;
+    font-family: "Mulish", sans-serif;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+
+  .content-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    padding: 20px;
+    margin-top: 0px;
+  }
+  
+  
+
+  .checkout-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+  }
+  
+
+  .price-container {
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+  }
+  
+  .price-label {
+    font-size: 18px;
+  }
+  
+  .total-price {
+    font-size: 20px;
+    margin-left: 10px;
+  }
+  
+
+  .details-message {
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Mulish', sans-serif;
+    font-weight: lighter;
+  }
+  
+
+  .security-message {
+    color: #888888;
+    font-size: 14px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: lighter;
+  }
+  
+
+  .form-group {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Mulish', sans-serif;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 16px;
+    text-align: center;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .submit-button {
+    background-color: #215F88;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 50;
+    margin-top: 30px;
+  }
+  
+  .submit-button:hover {
+    background-color: #7baccb;
+  }
+  .back-button {
+    background-color: #215F88;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: -10px;
+    margin-left: 55px;
+    margin-top: 65px;
+  }
+  
+  .back-button:hover {
+    background-color: #7baccb;
+  }
+  

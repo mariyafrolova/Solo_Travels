@@ -1,0 +1,68 @@
+.newsletter-popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 20px;
+    z-index: 9999;
+  }
+  
+  
+  
+  .newsletter-content {
+    background-color: #215F88;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .newsletter-content h2 {
+    margin-top: 0;
+    font-family: "Mulish", sans-serif;
+    color: white;
+  }
+  
+  .newsletter-content p {
+    margin-bottom: 20px;
+    font-family: "Mulish", sans-serif;
+    color: white;
+    font-weight:lighter;
+  }
+  
+  .newsletter-content form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .newsletter-content input[type='email'] {
+    padding: 10px;
+    margin-right: 10px;
+    width: 250px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .newsletter-content button[type='submit'] {
+    padding: 10px 20px;
+    background-color: green;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    color: white;
+    font-size: 40px;
+  }
+  

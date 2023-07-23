@@ -1,0 +1,146 @@
+.title {
+    font-family: 'Playfair Display', serif;
+    text-align: left;
+  }
+  .blue {
+    color: #215F88;
+  }
+
+  .green {
+    color: green;
+  }
+  .cta-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+  padding: 20px 20px 0 0;
+
+}
+
+.cta-button {
+  background-color: #215F88;
+  color: #FFFFFF; 
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  position: absolute;
+  top: 20px; 
+  right: 20px;
+  font-family: 'Mulish', sans-serif;
+}
+
+.cta-button:hover {
+  background-color: #7baccb;
+}
+  
+      nav{
+          background-color: white;
+      }
+      .navbar-nav {
+       display: flex;
+       justify-content: center;
+       margin-left: -40px; 
+      }
+      .navbar-nav .nav-link {
+      color: rgba(136, 132, 132, 0.966);
+      }
+      .navbar-nav .nav-link {
+      font-family: 'Mulish', sans-serif;
+      }
+      .custom-navbar {
+      padding-top: 1px; 
+      padding-bottom: 0px; 
+      }
+      .custom-text {
+      font-size: 50px; 
+      }
+      .navbar-text {
+      font-size: 15px; 
+      }
+  .header {
+  margin: 0px;
+  font-size: 25px;
+  color: #000000;
+  font-family: "Mulish", sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.card {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    cursor: pointer;
+    font-family: 'Mulish', sans-serif;
+    color: white;
+    background-color: rgb(18, 142, 18);
+    transition: background-color 0.3s ease;
+    margin-top: 20px;
+  }
+  .card:hover {
+    background-color: rgba(33, 95, 136, 0.8);
+  }
+  .card img {
+    width: 200px;
+    height: 150px;
+    border: 3px solid white; 
+  }
+  .card-shadow {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  h4 {
+  font-size: 16px;
+  margin-top: -15px;
+  position: absolute;
+  top: 160px;
+  
+
+}
+h5 {
+  font-size: 16px;
+  margin-top: -18px;
+  margin-left: 1225px;
+  margin-bottom:0px;
+  position: absolute;
+
+
+}
+select {
+  font-size: 14px;
+  font-family: 'Mulish',sans-serif;
+  margin-left: 1100px;
+  margin-bottom: 0px;
+  
+ 
+}
+
+label {
+  font-size: 14px;
+  font-family: 'Mulish',sans-serif;
+  margin-right: 10px; 
+  margin-top: 10px;
+  top: 200px;
+}
+.checkbox-label {
+  margin-left: 5px; 
+}
+.destination-link {
+color: white;
+text-decoration: none;
+}
+
+.h3 {
+  font-size: 25px;
+  font-weight: lighter;
+  font-family: 'Mulish',sans-serif;
+  margin-top: 10px;
+}
+
+
+
