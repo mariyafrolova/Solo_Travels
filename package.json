@@ -20,7 +20,7 @@
     "web-vitals": "^2.1.4"
   },
 
-  "homepage": "https://mariyafrolova.github.io/Solo_Travels",
+
   "scripts": {
     "start": "react-scripts start",
     "build": "CI=false react-scripts build",
