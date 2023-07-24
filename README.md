@@ -1,11 +1,11 @@
 SOURCES FOR THE IMAGES
 
 Home.js
-https://www.intrepidtravel.com/adventures/wp-content/uploads/2017/11/Intrepid-Travel-iceland_jokulsarlon-glacier-lake.jpg" className="d-block w-100
+https://www.intrepidtravel.com/adventures/wp-content/uploads/2017/11/Intrepid-Travel-iceland_jokulsarlon-glacier-lake.jpg
 
-https://www.edreams.com/blog/wp-content/uploads/sites/3/2018/11/solo-asia.jpg.webp" className="d-block w-100
+https://www.edreams.com/blog/wp-content/uploads/sites/3/2018/11/solo-asia.jpg.webp
 
-https://www.usnews.com/object/image/00000185-e46e-d665-a5fd-e6ff584c0000/17-paris-stock.jpg?update-time=1674574714780&size=responsiveFlow640" className="d-block w-100
+https://www.usnews.com/object/image/00000185-e46e-d665-a5fd-e6ff584c0000/17-paris-stock.jpg?update-time=1674574714780&size=responsiveFlow640
 
 https://www.travelweek.ca/wp-content/uploads/2022/08/Chasing-the-Midnight-Sun-in-Iceland-Skolavordustigur_Inside-2.jpg
 
@@ -57,7 +57,7 @@ https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/018/837/slides
 
 https://bstatic.com/xdata/images/xphoto/1182x887/58907485.jpg?k=c6a6c7ff39b320e1ff919b6f21f06a1aacd64efcc3b3c925b123309fbfac9875&o=?size=S
 
-https://www.franceeiffel.com/usermedia/photo-635978177168175008-1.jpg?dummy=0&crop=True&w=1100&h=735" alt="Hotel"className="activity-image
+https://www.franceeiffel.com/usermedia/photo-635978177168175008-1.jpg?dummy=0&crop=True&w=1100&h=735
 
 https://media.cntraveller.com/photos/62612d1155bc897043337b2b/3:2/w_1200,h_800,c_limit/22260481-airbnb-sof.jpg
 
